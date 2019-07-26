@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/viro/Documents/Purwadhika/Final Project Viro/yourenv/bin/python3.7"
+    "python.pythonPath": "/Users/viro/Documents/Purwadhika/Final Project Viro/yourenv/bin/python3.7",
+    "git.ignoreLimitWarning": true
 }
